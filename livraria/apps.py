@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class GaragemmConfig(AppConfig):
+class LivrariaConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'garagemm'
+    name = 'livraria'
